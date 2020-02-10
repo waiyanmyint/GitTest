@@ -1,1 +1,2 @@
 6789
+print("Hello World")
